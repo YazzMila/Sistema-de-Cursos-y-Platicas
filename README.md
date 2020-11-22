@@ -67,6 +67,6 @@ Roadmap
 Con forme se vay implementeando la aplicacion dentro de la empresa y con la experiencia de los usuarios del area de corrosion, podremos identificar errores y con eso ellos nos podran notificar y decir que es lo que podemos mejorar en el software. Se planea sacar actualizciones y mejoras del software cada 2 meses hasta que lleguemos a la version mas estable y completa. y de alli cada 6 meses alguna actualizacion de rendimiento o etc
 Créditos
 
-Codigo elaborado por:
+**Codigo elaborado por:**
 
-    Alumna Tecmilenio 02948340 Yazmín Milán Ruiz
+Alumna Tecmilenio: 02948340 Yazmín Milán Ruiz
